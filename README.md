@@ -7,7 +7,7 @@ source: https://www.kaggle.com/gpiosenka/100-bird-species
 
 Model Architecture
 -------------------
-Inspired by GoogLeNet/Inception v1, has a total of 10 million trainable parameters. Refer the uploaded jupyter notebook for details about the modle architectue
+Inspired by GoogLeNet/Inception v1, has a total of 10 million trainable parameters and was trained for only 30 epochs. Refer the uploaded jupyter notebook for details about the modle architectue.
 
 Model file
 -----------
