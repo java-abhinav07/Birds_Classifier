@@ -15,4 +15,4 @@ Model has been converted json format for ease of use, File name: "model.json"
 
 Trained Weights
 -----------------
-Training achieved an accuracy of 82 percent on the validation set. File name: "model_weights_v3.h5"
+Training achieved an accuracy of 84.67 percent on the validation set. File name: "model_weights_v3.h5"
